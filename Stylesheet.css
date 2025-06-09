@@ -1574,11 +1574,7 @@ input{
     background-color:black;
     padding: 2%;
     column-gap: 3%;
-    overflow-y: scroll;
-}
-.carttables1 td{
-    overflow-y: scroll;
-    /* height:100px; */
+    /* overflow-y: scroll; */
 }
 .subcarttables1{
     width:100%;
